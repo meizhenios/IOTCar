@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: Meizhen
-  host: meizhen
+  name: meizhenCar
+  host: meizhencar
   disk_quota: 1024M
